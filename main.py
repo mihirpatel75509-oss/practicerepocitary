@@ -3,5 +3,5 @@ print("main file")
 def divide(a, b,c):
     return  a / b
 
-def multiply(a, b,c):
+def multiply(a, b,x):
     return a * b
